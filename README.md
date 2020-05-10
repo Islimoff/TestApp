@@ -7,8 +7,8 @@ When the user clicks the desired color, the app goes to the second screen with t
 
 - List of Colors
 
-![ScreenShot](images/ListColors.png)
+![ScreenShot](images/ListColors.jpg)
 
 - Random Color Screen
 
-![ScreenShot](images/RandomColor.png)
+![ScreenShot](images/RandomColor.jpg)
