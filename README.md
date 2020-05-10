@@ -1,16 +1,14 @@
 # testapp
 
-A new Flutter application.
+This is my first pet project in Flutter.
 
-## Getting Started
+-The app has the 2 screens.
+When the user clicks the desired color, the app goes to the second screen with the selected background color. Then clicking on the screen, the color changes randomly
 
-This project is a starting point for a Flutter application.
+- List of Colors
 
-A few resources to get you started if this is your first Flutter project:
+![ScreenShot](images/ListColors.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Random Color Screen
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ScreenShot](images/RandomColor.png)
