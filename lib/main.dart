@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:testapp/color_list.dart';
 import 'package:testapp/random_color_widget.dart';
 
 void main() => runApp(TestApp());
@@ -11,9 +12,8 @@ class TestApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('My Test App'),
         ),
-        body: RandomColorWidget(),
+        body: ColorsList(),
       ),
     );
   }
 }
-
