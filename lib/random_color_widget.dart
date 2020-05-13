@@ -36,6 +36,7 @@ class _RandomColorWidgetState extends State<RandomColorWidget> {
   }
 
   Color _randomGenerator() {
-    return Colors.primaries[Random().nextInt(Colors.primaries.length)];
+    print((Random().nextDouble() * 0xFFFFFF).toInt());
+    return Color((Random().nextDouble() * 0xFFFFFF).toInt()).withOpacity(1.0);
   }
 }
